@@ -1,0 +1,19 @@
+url: https://needleworm.github.io/
+baseurl: /dream2022
+
+# Site settings
+title: [희망나눔] 꿈꾸는 청소년 공모전
+email: bhban@kakao.com
+description: 청소년의 꿈을 응원합니다! 2022.06. ~ 2022.07. 접수
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: http://github.com/needleworm
+
+
+# Build settings
+highlighter: true
+markdown: kramdown
+permalink: pretty
