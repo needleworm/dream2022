@@ -32,7 +32,8 @@
 .bookcover{
     height: 90vh;
     width:auto;
-    max-width:100%;
+    max-width: 100%;
+    max-height: 135vw;
 }
 
 .bookstore{
