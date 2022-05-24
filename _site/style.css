@@ -1606,7 +1606,11 @@ table-bordered>thead>tr>th,.table-bordered>thead>tr>th,table-bordered>tbody>tr>t
 }
 
 .bookcover{
-    height: 300px;
+    max-width: 80vw;
+    min-width: 400px;
+    min-height: 80vh;
+    max-height: 95vh;
+
 }
 
 .bookstore{
