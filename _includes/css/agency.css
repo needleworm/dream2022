@@ -31,10 +31,8 @@
 
 .bookcover{
     max-width: 80vw;
-    min-width: 600px;
     min-height: 80vh;
     max-height: 95vh;
-
 }
 
 .bookstore{
