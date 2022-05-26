@@ -3,10 +3,10 @@
   <channel>
     <title>제1회 꿈꾸는 청소년 공모전</title>
     <description>청소년의 꿈을 응원합니다! 2022.06. ~ 2022.07. 접수</description>
-    <link>http://localhost:4000/dream2022/</link>
-    <atom:link href="http://localhost:4000/dream2022/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 May 2022 14:28:13 +0900</pubDate>
-    <lastBuildDate>Thu, 26 May 2022 14:28:13 +0900</lastBuildDate>
+    <link>https://needleworm.github.io//dream2022/</link>
+    <atom:link href="https://needleworm.github.io//dream2022/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 26 May 2022 14:46:01 +0900</pubDate>
+    <lastBuildDate>Thu, 26 May 2022 14:46:01 +0900</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
   </channel>
