@@ -9,6 +9,18 @@
     font-size: 19px;
 }
 
+.sponsorgrid{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    max-width: 500px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#red{
+    color:red;
+}
+
  .chapterTitle{
     color:#bc61ab;
     font-size:24px;
